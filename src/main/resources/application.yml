@@ -1,1 +1,4 @@
-
+gsg:
+  taxRates:
+    DE: '0.20'
+    FR: '0.19'
