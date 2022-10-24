@@ -1,7 +1,7 @@
 # Coding Challenge case study at GSG
 
 ### Build & Test
-The project is build with Maven:
+The project is built with Maven:
 
 `mvn clean package`
 
